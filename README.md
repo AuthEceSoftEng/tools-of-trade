@@ -12,10 +12,12 @@ Tools, frameworks and platforms we use for research and development
 - Atom
 - PyCharm
 - Eclipse
+- [Brackets](http://brackets.io/)
 
 ## Abstract Syntax Trees
 
-- [esprima](http://esprima.org/): Esprima is a high performance, standard-compliant ECMAScript parser written in ECMAScript 
+- [esprima](http://esprima.org/): Esprima is a high performance, standard-compliant ECMAScript parser written in ECMAScript
+- [plyj](https://pypi.python.org/pypi/plyj): A java parser written in Python using PLY
 
 ## APIs
 
@@ -33,6 +35,11 @@ Free for OS projects
   - [code climate](https://codeclimate.com/)
   - [codebeat](https://codebeat.co)
   - [codecov](https://codecov.io/)
+
+### Standalone
+
+  - [Sourcemeter](https://www.sourcemeter.com/): Static analyzer which supports Java/C/C++/C#/Python/RPG. Works both in Windows/Linux
+  - [PMD](https://pmd.github.io/): Tool for identifying coding violations
 
 ### JavaScript
   - [eslint](http://eslint.org): linting for JavaScript
