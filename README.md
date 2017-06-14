@@ -19,6 +19,10 @@ Tools, frameworks and platforms we use for research and development
 - [esprima](http://esprima.org/): Esprima is a high performance, standard-compliant ECMAScript parser written in ECMAScript
 - [plyj](https://pypi.python.org/pypi/plyj): A java parser written in Python using PLY
 
+## Datasets
+
+- [Collection maintained by](https://github.com/kyrcha/datasets-directory#software-engineering) [kyrcha](https://github.com/kyrcha)
+
 ## APIs
 
 - [github](https://developer.github.com/v3/)
@@ -59,3 +63,4 @@ Free for OS projects
   - [YSlow](http://yslow.org/): analyzes web pages and why they're slow based on Yahoo!'s rules for high performance web sites
   - [PageSpeedTools](https://developers.google.com/speed/pagespeed/): The PageSpeed tools analyze and optimize your site following web best practices
   - [GTmetrix](https://gtmetrix.com/): Analyze your site’s speed and get actionable recommendations
+  - [Pingdom free](https://www.pingdom.com/free)
