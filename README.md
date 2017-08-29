@@ -64,3 +64,4 @@ Free for OS projects
   - [PageSpeedTools](https://developers.google.com/speed/pagespeed/): The PageSpeed tools analyze and optimize your site following web best practices
   - [GTmetrix](https://gtmetrix.com/): Analyze your site’s speed and get actionable recommendations
   - [Pingdom free](https://www.pingdom.com/free)
+  - [Lighthouse](https://developers.google.com/web/tools/lighthouse/): It has audits for performance, accessibility, progressive web apps, and more.
