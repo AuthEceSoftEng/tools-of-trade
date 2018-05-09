@@ -30,6 +30,10 @@ Tools, frameworks and platforms we use for research and development
 
 ## Quality
 
+### Other lists
+
+  - [Awesome static analysis](https://github.com/mre/awesome-static-analysis)
+
 ### SaaS
 
 Free for OS projects
